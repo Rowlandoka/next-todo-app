@@ -6,7 +6,7 @@ export default function Home() {
 		<main className={styles.main}>
 			<h1>To-Do app</h1>
 			<p>This is an app created using Next.js 14</p>
-			<Link href='/' className={styles['go-button']}>
+			<Link href='/crud' className={styles['go-button']}>
 				Let’s Go!
 			</Link>
 		</main>
